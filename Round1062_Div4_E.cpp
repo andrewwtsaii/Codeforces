@@ -7,7 +7,7 @@ typedef long long ll;
 /*
 binary search on answer
 
-idea for each answer: set portal to lft +x loop to rht - x;
+idea for each answer: set portal to lft friend +x loop to rht friend - x, looping through adjacent friends
 
 deal with edges seperately
 */
@@ -146,3 +146,4 @@ int main(){
     }
 
 }
+
