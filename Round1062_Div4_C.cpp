@@ -58,6 +58,7 @@ obs: we can swap ANY 2 numbers as long as a number of different parity exists ou
 sorted prefix of the array
 
 possible idea: if 1 number exists of other parity you can just sort, otherwise its the same
+^^ turns out to be solution
 */
 int main(){
     ios::sync_with_stdio(0);
@@ -97,3 +98,4 @@ int main(){
     }
 
 }
+
