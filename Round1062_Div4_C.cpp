@@ -55,7 +55,7 @@ sorted
 TOO SLOW, no proof
 
 obs: we can swap ANY 2 numbers as long as a number of different parity exists outside of the current
-sorted prefix of the array
+sorted prefix of the array (turns out we can swap any 2 numbers as long as a number of different parity exists in general)
 
 possible idea: if 1 number exists of other parity you can just sort, otherwise its the same
 ^^ turns out to be solution
@@ -98,4 +98,5 @@ int main(){
     }
 
 }
+
 
