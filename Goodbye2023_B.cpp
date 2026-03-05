@@ -85,8 +85,6 @@ case 2: lcm(a, b) = b -> a | b
 a must be the largest divisor of b since otherwise it would divide x.
 since if y | b and b | x, y | x. this would contradict that a is the second largest divisor of x.
 
-to get the largest divisor of b
-
 b = x/d1 where d1 is the smallest divisor which happens to be prime (otherwise could be broken down into smaller prime factors)
 but since a is the largest divisor of b
 a = b/d2 where d2 is the smallest divisor of b
