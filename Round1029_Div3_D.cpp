@@ -160,6 +160,8 @@ x = a[1] - ny
 REMEMBER TO CHECK X AND Y MUST BE VALID INTEGERS >= 0
 
 Quite easy problem actually: You have multiple equations just solve for x and y and make sure it's consistent and valid.
+
+TRICK: TRY AND MODEL PROBLEM WITH EQUATIONS
 */
 vector<ll> v;
 int main(){
@@ -218,3 +220,4 @@ int main(){
     }
 
 }
+
