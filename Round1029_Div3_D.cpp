@@ -158,6 +158,8 @@ y = (a[2] - 2a[1])/(-n-1)
 x = a[1] - ny
 
 REMEMBER TO CHECK X AND Y MUST BE VALID INTEGERS >= 0
+
+Quite easy problem actually: You have multiple equations just solve for x and y and make sure it's consistent and valid.
 */
 vector<ll> v;
 int main(){
