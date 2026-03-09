@@ -51,11 +51,11 @@ LOGIC WRONG: IDEA IS TO GO TO FARTHEST EDGE (NOT TOWARDS D) GIVES MOST TIME TO N
 Editorial solution
 EDITORIAL USED
 
-since krug wants to go to farthest edge, the answer is just the distance to that edge since he will move along that edge after!
+A.T: since krug wants to go to farthest edge, the answer is just the distance to that edge since he will move along that edge after!
 doran will move diagonally making his speed not slow down he will catch krug
 
 
-answer is just the max distance from doran to that edge
+A.T: answer is just the max distance from doran to that edge
 
 overcomplicated problem
 
